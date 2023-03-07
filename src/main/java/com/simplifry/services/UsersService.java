@@ -1,2 +1,4 @@
-package com.simplifry.services;public interface UsersService {
+package com.simplifry.services;
+
+public interface UsersService {
 }

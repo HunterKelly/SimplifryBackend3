@@ -1,2 +1,4 @@
-package com.simplifry.serviceImpl;public class UsersServiceImpl {
+package com.simplifry.serviceImpl;
+
+public class UsersServiceImpl {
 }
